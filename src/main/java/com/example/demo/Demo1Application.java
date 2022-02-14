@@ -13,7 +13,7 @@ public class Demo1Application {
 	@RequestMapping("/")
 	@ResponseBody
 	String home() {
-		return "Hello all, Welcome to Shark tank";
+		return "Hello all, Welcome to Shark tank India";
 	}
 
 
